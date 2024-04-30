@@ -1,0 +1,22 @@
+[
+   {
+      "directory" : "/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Debug",
+      "command"   : "clang++ -I\"/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1\" -I\"/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Debug\" -I\"/Applications/ti/mspm0_sdk_2_00_00_03/source/third_party/CMSIS/Core/Include\" -I\"/Applications/ti/mspm0_sdk_2_00_00_03/source\" -D__MSPM0G3507__ -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Clock.c"
+   },
+   {
+      "directory" : "/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Debug",
+      "command"   : "clang++ -I\"/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1\" -I\"/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Debug\" -I\"/Applications/ti/mspm0_sdk_2_00_00_03/source/third_party/CMSIS/Core/Include\" -I\"/Applications/ti/mspm0_sdk_2_00_00_03/source\" -D__MSPM0G3507__ -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Lab3_part1_main.c"
+   },
+   {
+      "directory" : "/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Debug",
+      "command"   : "clang++ -I\"/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1\" -I\"/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Debug\" -I\"/Applications/ti/mspm0_sdk_2_00_00_03/source/third_party/CMSIS/Core/Include\" -I\"/Applications/ti/mspm0_sdk_2_00_00_03/source\" -D__MSPM0G3507__ -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/ticlang/startup_mspm0g3507_ticlang.c"
+   },
+   {
+      "directory" : "/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Debug",
+      "command"   : "clang++ -I\"/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1\" -I\"/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/Debug\" -I\"/Applications/ti/mspm0_sdk_2_00_00_03/source/third_party/CMSIS/Core/Include\" -I\"/Applications/ti/mspm0_sdk_2_00_00_03/source\" -D__MSPM0G3507__ -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/armv7em-ti-none-eabihf/c++/v1\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c++/v1\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/lib/clang/15.0.7/include\" -isystem\"/Applications/ti/ccstheia131/ccs/tools/compiler/ti-cgt-armllvm_3.2.1.LTS/include/c\"",
+      "file"      : "/Users/rylan/Desktop/mspm0_workspace/MSPM0_Lab3_P1/uart.c"
+   }
+]

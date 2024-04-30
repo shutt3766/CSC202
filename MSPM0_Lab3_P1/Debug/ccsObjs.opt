@@ -1,0 +1,6 @@
+"./Clock.o"
+"./Lab3_part1_main.o"
+"./uart.o"
+"./ticlang/startup_mspm0g3507_ticlang.o"
+"../mspm0g3507.cmd"
+-llibc.a
